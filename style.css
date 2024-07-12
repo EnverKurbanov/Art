@@ -1,0 +1,85 @@
+#main-title {
+   font-family: Helvetica;
+   font-size: 100px;
+   font-weight: bold;
+   color: khaki; 
+   text-align: center;
+   background-image: url("https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg?_gl=1*1xxqs3z*_gcl_aw*R0NMLjE3MjA2MjgwMDUuQ2p3S0NBanc0cmkwQmhBdkVpd0E4b282RjFMaGlFYlQ4S0xnc0FIR3RvUW5XTXZCVUl0REpfa2l6a19aUEdmelIxMXhIOW1Pb1YyaE1Sb0N2Tm9RQXZEX0J3RQ..*_gcl_au*MjE5ODgyOTAwLjE3MTc2MjcyNzg.*_ga*ODE3NTQxMjAzLjE3MTc2MzIzNzM.*_ga_3LRZM6TM9L*MTcyMDc3MjYzMS40Ni4xLjE3MjA3NzMxOTkuNTUuMC4w");
+   height:fit-content;
+}
+
+#title-1 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+}
+
+#description-title-1 {
+    font-family: Helvetica;
+    font-size: 20px;
+}
+
+#description-1 {
+    font-family: Helvetica;
+
+}
+
+
+#styled-text-1 {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+
+#title-2 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+}
+
+#description-title-2 {
+    font-family: Helvetica;
+    font-size: 20px;
+}
+
+#description-2 {
+    font-family: Helvetica;
+
+}
+
+
+#styled-text-2 {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+#title-3 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+}
+
+#description-title-3 {
+    font-family: Helvetica;
+    font-size: 20px;
+}
+
+#description-3 {
+    font-family: Helvetica;
+
+}
+
+
+#styled-text-3 {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
